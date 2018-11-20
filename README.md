@@ -142,7 +142,7 @@ SUM(net_worth)
 4202800   
 ```
 
-### Code Along II: `MIN()` and `MAX()`
+### Code Along III: `MIN()` and `MAX()`
 
 The minimum and maximum aggregator functions return the minimum and maximum values from a specified column respectively. 
 
@@ -167,7 +167,7 @@ MIN(net_worth)
 21000   
 ```
 
-### Code Along III: `COUNT()`
+### Code Along IV: `COUNT()`
 
 The count function returns the number of rows that meet a certain condition. 
 
